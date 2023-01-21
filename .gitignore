@@ -1,8 +1,6 @@
 1. Практические задания
 3. Домашние задания
 
-.gitignore
-
 __init__.py
 
 *.yaml
@@ -11,3 +9,4 @@ __init__.py
 *.zip
 *.iml
 *.txt
+.idea
